@@ -45,8 +45,8 @@ Projects related to AI, ML, and software development.
 
 ## Connect with Me
 
-- GitHub: https://github.com/YourUsername
-- LinkedIn: Add your LinkedIn profile link
+- GitHub: https://github.com/Priya0724
+- LinkedIn: https://www.linkedin.com/in/priya-kumari-117194328/
 
 ## Fun Fact
 ✨ Always exploring new technologies and building innovative solutions.
