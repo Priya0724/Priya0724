@@ -15,6 +15,7 @@
 🔭 Working on:
 - AI College Assistant Chatbot
 - Academic Projects and Research
+- AI-Powered Customer Support Automation System using LangGraph
 
 ## Skills
 
@@ -37,6 +38,8 @@ A chatbot designed to help students access college-related information efficient
 
 ### Student Academic Projects
 Projects related to AI, ML, and software development.
+
+### AI-Powered Customer Support Automation System using LangGraph
 
 ## Education
 
